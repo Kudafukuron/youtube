@@ -1,0 +1,190 @@
+.yt {
+  background-color: #c00;
+  color: white;
+  border: none;
+  font-size: 17px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 8px;
+  vertical-align: bottom;
+}
+
+.zm {
+  color: rgb(41, 118, 211);
+  border-color: rgb(41, 118, 211);
+  height: 43px;
+  width: 77px;
+  border-radius: 3px;
+  background-color: white;
+  cursor: pointer;
+  border-style: solid;
+  margin-right: 8px;
+  font-size: 17px;
+}
+
+.tw {
+  color: white;
+  background-color: rgb(2, 158, 255);
+  border: none;
+  height: 43px;
+  width: 90px;
+  font-size: 18px;
+  border-radius: 23px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.ub {
+  margin-left: 8px;
+  border: none;
+  background-color: black;
+  color: white;
+  height: 41px;
+  width: 125px;
+}
+
+.am {
+  border: none;
+  background-color: rgb(255, 216, 20);
+  height: 50px;
+  width: 125px;
+  border-radius: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 300ms, opacity 100ms;
+  vertical-align: top;
+}
+
+.am:hover{
+  background-color:rgb(255, 200, 20);
+}
+
+.am:active{
+  opacity: 0.7;
+}
+
+.gh {
+  border: none;
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 33px;
+  width: 86px;
+  border-radius: 5px;  
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.bs {
+  border: none;
+  color: white;
+  background-color: rgb(121, 82, 179);
+  height: 42px;
+  width: 115px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.dw {
+  height: 42px;
+  border-color: rgb(108, 117, 125);
+  color:rgb(108, 117, 125);
+  font-weight: 600; 
+  width: 115px;
+  border-radius: 4px;
+  background-color: white;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+.lk {
+  background-color: rgb(10, 102, 194);
+  height: 40px;
+  width: 215px;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 300ms, box-shadow 300ms, opacity 200ms;
+}
+
+.lk:hover{
+  background-color: rgb(9, 74, 178);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.lk:active{
+  opacity: 0.8;
+}
+
+.sv {
+  margin-left: 10px;
+  color: rgb(10, 102, 194);
+  border-color:rgb(10, 102, 194);
+  height: 39px;
+  width: 90px;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 30px;
+  background-color: white;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1.4px; 
+  transition: background-color 300ms, border-width 200ms, box-shadow 300ms, opacity 300ms;
+}
+
+.sv:hover{
+  background-color: rgba(128, 177, 244, 0.76);
+  border-width: 2px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sv:active{
+  opacity: 0.8;
+}
+
+.ba {
+  color: rgb(0, 113, 133);
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 300ms;
+}
+
+.ba:hover{
+  color:rgba(143, 44, 44, 0.701);
+}
+
+.hd {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.gr {
+  color: rgb(0, 118, 0);
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.bn {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 31px;
+  width: 120px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-weight: bold;
+  transition: background-color 300ms, opacity 300ms;
+}
+
+.bn:hover{
+  background-color: rgb(254, 123, 0);
+}
+
+.bn:active{
+  opacity: 0.7;
+}
